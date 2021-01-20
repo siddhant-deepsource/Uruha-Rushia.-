@@ -1,0 +1,8 @@
+language = "Python"
+developer = "Raphiel#4045"
+devteam = "Raphiel#4045"
+ownerid = "694446165197979670"
+ownertag = "Raphiel#4045"
+mainprefix = ","
+no_perm = "Sorry, you don't have the permissions to do this."
+invitelink = "https://bit.ly/3483BF4 (Shortened)"
